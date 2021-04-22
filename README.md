@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishabh-verm
+- 👋 Hi, I’m Rishabh Verma
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning Jenkins
 - 💞️ I’m looking to collaborate on ...
